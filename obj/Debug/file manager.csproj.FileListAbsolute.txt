@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\file manager\bin\Debug\file manager.exe.config
+C:\Users\user\source\repos\file manager\bin\Debug\file manager.exe
+C:\Users\user\source\repos\file manager\bin\Debug\file manager.pdb
+C:\Users\user\source\repos\file manager\obj\Debug\file manager.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\file manager\obj\Debug\file_manager.Properties.Resources.resources
+C:\Users\user\source\repos\file manager\obj\Debug\file manager.csproj.GenerateResource.cache
+C:\Users\user\source\repos\file manager\obj\Debug\file manager.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\file manager\obj\Debug\file manager.exe
+C:\Users\user\source\repos\file manager\obj\Debug\file manager.pdb
+C:\Users\user\source\repos\file manager\obj\Debug\file_manager.GoBack2.resources
